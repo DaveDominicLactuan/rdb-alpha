@@ -80,3 +80,7 @@ cd ../..
 ls --color=auto
 clear
 mkdir website
+cs website
+cd website
+cd ..
+ls --color=auto
