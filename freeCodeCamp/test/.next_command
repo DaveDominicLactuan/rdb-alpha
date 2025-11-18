@@ -321,3 +321,5 @@ rm
 rm --help
 rm -r fonts
 ls --color=auto
+__vsc_prompt_cmd_original
+touch package.json
