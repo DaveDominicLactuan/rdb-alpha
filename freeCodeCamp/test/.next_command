@@ -296,3 +296,6 @@ cd assets
 mkdir client/assets/icons
 mv CodeAlly.svg client/assets/icons
 find
+ls --color=auto
+mv freeCodeCamp.svg client/assets/icons
+mv CodeRoad.svg client/assets/icons
