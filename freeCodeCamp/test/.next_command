@@ -122,3 +122,4 @@ more background.jpg
 ls --color=auto background.jpg
 cd ..
 ls --color=auto
+rm background.jpg
