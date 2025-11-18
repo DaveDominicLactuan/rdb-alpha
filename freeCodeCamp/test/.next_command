@@ -303,3 +303,10 @@ touch freeCodeCamp.svg
 mv freeCodeCamp.svg client/assets/icons
 find
 mkdir client/assets/fonts
+touch fonts/roboto-bold.woff
+mkdir client/assets/fonts/roboto-bold.woff
+touch roboto-bold.woff client/assets/fonts
+cd client/assets/fonts
+touch roboto-bold.woff
+cd ../../..
+touch client/assets/fonts/roboto-bold.woff
