@@ -188,3 +188,5 @@ mv styles.css client/src
 find
 fing client
 find client
+ls --color=auto
+find --help
