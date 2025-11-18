@@ -292,3 +292,5 @@ ls --color=auto
 rm images/background.jpg
 rmdir images
 ls --color=auto
+cd assets
+mkdir client/assets/icons
