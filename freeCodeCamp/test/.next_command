@@ -320,3 +320,4 @@ rmdir fonts
 rm
 rm --help
 rm -r fonts
+ls --color=auto
