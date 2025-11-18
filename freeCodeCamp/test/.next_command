@@ -186,3 +186,5 @@ mv style.css client/src
 ls --color=auto
 mv styles.css client/src
 find
+fing client
+find client
