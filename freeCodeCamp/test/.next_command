@@ -199,3 +199,4 @@ mkdir assests
 cd client
 mkdir assests
 mkdir assets
+cd assets
