@@ -299,3 +299,5 @@ find
 ls --color=auto
 mv freeCodeCamp.svg client/assets/icons
 mv CodeRoad.svg client/assets/icons
+touch freeCodeCamp.svg
+mv freeCodeCamp.svg client/assets/icons
