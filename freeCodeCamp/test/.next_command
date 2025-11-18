@@ -328,3 +328,4 @@ touch README.md
 ls]
 ls --color=auto
 echo Yay!
+echo I finished the boilerplate!
