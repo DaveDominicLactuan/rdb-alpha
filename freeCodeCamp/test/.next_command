@@ -279,3 +279,14 @@ mv footer.jpeg client/assets/images/
 mv images/footer.jpeg client/assets/images
 find
 rmdir images
+find -name website/images
+rmdir images
+ls --color=auto
+rmdir images
+find
+rmdir images
+ls --color=auto
+touch images
+rmdir images
+ls --color=auto
+rm images/background.jpg
