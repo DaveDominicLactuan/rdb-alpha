@@ -153,3 +153,7 @@ touch lato.font
 touch roboto.font
 mv roboto.font roboto.woff
 mv lato.font lato.ttf
+mv melo.font melo.otf
+mv menlo.font melo.otf
+touch menlo.font
+mv menlo.font menlo.otf
